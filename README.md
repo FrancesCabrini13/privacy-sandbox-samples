@@ -1,4 +1,4 @@
-SDK Runtime and Privacy Preserving APIs Repository
+APK Runtime and Privacy Preserving APIs Repository
 ==================================================
 
 This repository contains a set of individual Android Studio projects to help you get started writing apps using the SDK Runtime and Privacy Preserving APIs (PPAPIs).
